@@ -1,32 +1,32 @@
 {
-  "Vehículos": {
-    "Automóvil": 5,
+  "Vehiculos": {
+    "Automovil": 5,
     "Bus": 1,
     "Motocicleta": 3,
-    "Vehículo_Pesado": 2
+    "Vehiculo_Pesado": 2
   },
-  "Vehículos2": {
-    "Automóvil": 1,
+  "Vehiculos2": {
+    "Automovil": 1,
     "Bus": 3,
     "Motocicleta": 6,
-    "Vehículo_Pesado": 1
+    "Vehiculo_Pesado": 1
   },
-  "Vehículos3": {
-    "Automóvil": 2,
+  "Vehiculos3": {
+    "Automovil": 2,
     "Bus": 2,
     "Motocicleta": 3,
-    "Vehículo": 0
+    "Vehiculo": 0
   },
-  "Vehículos4": {
-    "Automóvil": 3,
+  "Vehiculos4": {
+    "Automovil": 3,
     "Bus": 6,
     "Motocicleta": 7,
-    "Vehículo_Pesado": 1
+    "Vehiculo_Pesado": 1
   },
-  "Vehículos5": {
-    "Automóvil": 1,
+  "Vehiculos5": {
+    "Automovil": 1,
     "Bus": 2,
     "Motocicleta": 3,
-    "Vehículo_Pesado": 4
+    "Vehiculo_Pesado": 4
   }
 }
