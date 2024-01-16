@@ -1,0 +1,28 @@
+{
+  "Vehículos": [
+    {
+      "Automóvil": "2",
+      "Bus": "3",
+      "Motocicleta": "1",
+      "Vehículo Pesado": "0"
+    },
+    {
+      "Automóvil": "4",
+      "Bus": "6",
+      "Motocicleta": "0",
+      "Vehículo Pesado": "3"
+    },
+    {
+      "Automóvil": "1",
+      "Bus": "2",
+      "Motocicleta": "0",
+      "Vehículo Pesado": "1"
+    },
+    {
+      "Automóvil": "3",
+      "Bus": "2",
+      "Motocicleta": "0",
+      "Vehículo Pesado": "3"
+    }
+  ]
+}
