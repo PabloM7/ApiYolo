@@ -1,28 +1,32 @@
 {
-  "Vehículos": [
-    {
-      "Automóvil": "2",
-      "Bus": "3",
-      "Motocicleta": "1",
-      "Vehículo Pesado": "0"
-    },
-    {
-      "Automóvil": "4",
-      "Bus": "6",
-      "Motocicleta": "0",
-      "Vehículo Pesado": "3"
-    },
-    {
-      "Automóvil": "1",
-      "Bus": "2",
-      "Motocicleta": "0",
-      "Vehículo Pesado": "1"
-    },
-    {
-      "Automóvil": "3",
-      "Bus": "2",
-      "Motocicleta": "0",
-      "Vehículo Pesado": "3"
-    }
-  ]
+  "Vehículos": {
+    "Automóvil": "5",
+    "Bus": "1",
+    "Motocicleta": "3",
+    "Vehículo_Pesado": "2"
+  },
+  "Vehículos2": {
+    "Automóvil": "1",
+    "Bus": "3",
+    "Motocicleta": "6",
+    "Vehículo_Pesado": "1"
+  },
+  "Vehículos3": {
+    "Automóvil": "2",
+    "Bus": "2",
+    "Motocicleta": "3",
+    "Vehículo": "0"
+  },
+  "Vehículos4": {
+    "Automóvil": "3",
+    "Bus": "6",
+    "Motocicleta": "7",
+    "Vehículo_Pesado": "1"
+  },
+  "Vehículos5": {
+    "Automóvil": "1",
+    "Bus": "2",
+    "Motocicleta": "3",
+    "Vehículo_Pesado": "4"
+  }
 }
